@@ -1,39 +1,106 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&width=700&lines=Hi+%F0%9F%91%8B+I'm+MD+Musaddique+Shohid;Computer+Science+%2B+AI+Student;Software+%7C+AI+%7C+Web+Development;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+MD+Musaddique+Shohid;Computer+Science+%2B+AI+Student;Software+%7C+AI+%7C+Web+Development;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</p>
 
-🎓 Computer Science with Artificial Intelligence student at Birmingham City University  
-🏆 First-Class Year 1 Result  
-💻 Interested in Software Development, AI/ML and emerging technologies  
+---
+
+## 👨‍💻 About Me
+
+🎓 BSc (Hons) **Computer Science with Artificial Intelligence** at Birmingham City University
+
+🏆 **First-Class Year 1 Result**
+
+💡 Team Leader of **EchoFlow**, winner of the **Canal & River Trust Community Award – Innovation Fest 2026**
+
+🚀 Interested in **Software Development, AI/ML, Web Development and Emerging Technologies**
+
 📍 Birmingham, UK
 
-## 🚀 About Me
+🎯 Currently seeking a **2027 Industrial Placement**
 
-I'm a Computer Science with AI student who enjoys building practical projects across software development, web technologies, embedded systems and artificial intelligence.
+---
 
-I was the Team Leader of **EchoFlow**, a 5-member university innovation project that won **1st Place – Canal & River Trust Community Award at Innovation Fest 2026**.
+## 🛠️ Tech Stack
 
-I'm currently developing my technical skills and looking for a **2027 industrial placement** where I can contribute, learn and gain professional experience.
+### Languages
 
-## 🛠️ Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Languages:** Python • JavaScript • HTML • CSS • C++  
-**Web:** React • Vite • Framer Motion  
-**Embedded & AI:** ESP32 • Arduino • Edge Impulse • Sensors • WS2812B LEDs  
-**Tools:** Git • GitHub • VS Code
+### Technologies & Tools
 
-## 📌 Featured Projects
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
 
 ### 💡 EchoFlow – Smart Interactive Lighting System
+
 Award-winning ESP32 smart lighting system combining ultrasonic sensing, addressable LEDs and AI-based audio classification.
 
+**Tech:** Arduino/C++ • ESP32 • Edge Impulse • WS2812B • I2S
+
+[View Project](https://github.com/Alavie007/echoflow-smart-lighting-system)
+
+---
+
 ### 🏥 Hospital Management System
+
 Python OOP application for managing doctors, patients and hospital administration.
 
+**Tech:** Python • OOP • Modular Programming
+
+[View Project](https://github.com/Alavie007/hospital-management-system)
+
+---
+
 ### 🎂 Interactive Birthday Website
-Interactive responsive website built with React, JavaScript, CSS, Vite and Framer Motion.
+
+Interactive responsive web experience with animations and reusable React components.
+
+**Tech:** React • JavaScript • CSS • Vite • Framer Motion
+
+[View Project](https://github.com/Alavie007/interactive-birthday-website)
+
+---
 
 ### 🔐 Whitfield Diffie Website
-Responsive multi-page university website exploring Whitfield Diffie and public-key cryptography, built with HTML5 and CSS3.
 
-## 📫 Connect With Me
+Responsive multi-page university website exploring Whitfield Diffie, public-key cryptography and the Diffie–Hellman key exchange.
 
-**LinkedIn:** https://www.linkedin.com/in/md-musaddique-shohid-39476a410/
+**Tech:** HTML5 • CSS3 • Responsive Design
+
+[View Project](https://github.com/Alavie007/whitfield-diffie-website)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alavie007&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alavie007&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MD_Musaddique_Shohid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-musaddique-shohid-39476a410/)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 👋
+</p>
