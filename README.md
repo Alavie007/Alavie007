@@ -1,4 +1,4 @@
-# Hi, I'm MD Musaddique Shohid 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&width=700&lines=Hi+%F0%9F%91%8B+I'm+MD+Musaddique+Shohid;Computer+Science+%2B+AI+Student;Software+%7C+AI+%7C+Web+Development;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 🎓 Computer Science with Artificial Intelligence student at Birmingham City University  
 🏆 First-Class Year 1 Result  
